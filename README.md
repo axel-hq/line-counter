@@ -8,6 +8,10 @@ The main objective of this exercise is to write a program, in the language of yo
 * The definition given below of what qualifies as a code line is vague. Did you decide on the specifics of what qualifies as a code line, and does your solution handle the corresponding edgecases correctly?
 * Is your code readable? Is it easy to prove that your code is bug-free, even without tests? How much time would it take a new developer to read your code and understand how it works?
 
+You're allowed to look up whatever you want to help you with your development. The only real restrictions are:
+* No looking up the solution in its entirety.
+* Use of AI-based automated code generation tools is forbidden, and if you have these in your editor I would kindly ask that you turn such tools off for the duration of the exercise.
+
 ## Context and definitions
 In Javascript, there are single-line comments which look like
 ```js

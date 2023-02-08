@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import unittest
 
-from count_lines_solution import count_lines
+from count_lines import count_lines
 tests = [
    ["tests/comment_switch.js", 10],
    ["tests/fizzbuzz.js", 12],

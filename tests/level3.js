@@ -1,7 +1,9 @@
-// This file has 10 lines total
+// This file has 13 lines of code
 
 // And now, to test one of my favorite comment-related inventions:
-const line1 = 'hello wo"rld';
+
+line1();
+
 /*
 line8("or will this code run?");
 line9();
@@ -28,3 +30,8 @@ line5();
 line6();
 //*/
 
+line11();
+// comment containing block start /*
+line12();
+// comment containing block end */
+line13();

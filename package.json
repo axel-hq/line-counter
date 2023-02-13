@@ -1,0 +1,25 @@
+{
+  "name": "line-counter",
+  "version": "1.0.0",
+  "description": "_Inspired by the Counting Code Lines Kata on CodeKata.com._",
+  "main": "count_lines.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axel-hq/line-counter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axel-hq/line-counter/issues"
+  },
+  "homepage": "https://github.com/axel-hq/line-counter#readme",
+  "dependencies": {
+    "jest": "^29.4.2"
+  }
+}

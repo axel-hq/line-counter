@@ -3,10 +3,10 @@ import unittest
 
 from count_lines import count_lines
 tests = [
-   ["tests/comment_switch.js", 10],
-   ["tests/fizzbuzz.js", 12],
-   ["tests/multilines.js", 7],
-   ["tests/whitespace.js", 4],
+   ["tests/level1.js", 12],
+   ["tests/level2.js", 40],
+   ["tests/level3.js", 13],
+   ["tests/level4.js", 5],
 ]
 
 class test_count_lines(unittest.TestCase):

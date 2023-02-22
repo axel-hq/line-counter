@@ -6,6 +6,8 @@
  * as a string.
  */
 function fizzbuzz(n) {
+	// Tabs are possible too
+   
    // First we check divisible by 3 and divisible by 5.
    if (n % 15 === 0) {
       return "fizzbuzz"; // Case 1
